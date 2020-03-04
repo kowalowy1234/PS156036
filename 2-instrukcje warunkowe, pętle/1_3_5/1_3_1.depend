@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583327214 source:d:\p_kowalski\p_srt\lekcja 2\1_3_5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
